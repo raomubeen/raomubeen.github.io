@@ -40,6 +40,7 @@ Specialized in **Databricks, Snowflake, lakehouse architectures, streaming syste
 - **AI-Driven Data Quality** – Reduced manual validation effort by 60%  
 
 ![Kafka+flink,Healthcare,Enterrpise,Ai-driven](/images/image.png)
+---
 ## Education
 
 **Bachelor of Technology in Computer Science**
