@@ -42,14 +42,9 @@ Specialized in **Databricks, Snowflake, lakehouse architectures, streaming syste
 ## Education
 
 **Bachelor of Technology in Computer Science**
-
-## Files
-
-- `Rao Mubeen.pdf` – Full professional resume
-
-## Usage
-
-This resume is intended for:
-- Senior Data Engineer roles  
-- Data Architect roles  
-- Analytics Platform & Lakehouse leadership positions  
+Certifications
+• Databricks Certified Data Engineer – Professional
+• Snowflake SnowPro Advanced: Architect
+• AWS Certified Data Analytics – Specialty
+• Microsoft Azure Data Engineer Associate (DP-203)
+• Google Professional Data Engineer
