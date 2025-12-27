@@ -42,7 +42,8 @@ Specialized in **Databricks, Snowflake, lakehouse architectures, streaming syste
 ## Education
 
 **Bachelor of Technology in Computer Science**
-Certifications
+
+## Certifications
 • Databricks Certified Data Engineer – Professional
 • Snowflake SnowPro Advanced: Architect
 • AWS Certified Data Analytics – Specialty
